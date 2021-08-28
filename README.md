@@ -1,6 +1,6 @@
  # 👋 Hi, I’m LOGAN
 - ✨I'm from Korea
-- 👀 I’m interested in WEB PROGRAMING 
+- 👀 I’m interested in WEB PROGRAMING so far
 - 🌱 I’m currently learning SPRING FRAMEWORK
 - 💞️ I’m looking to collaborate on NOTHING
 - 📫 How to reach me jhd7130@gmail.com
