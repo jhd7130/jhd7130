@@ -6,10 +6,8 @@
 - 📫 How to reach me jhd7130@gmail.com
 - 🤙 HafaDai
 
-some author said
-  > recording every single moment of my life is same with making my own movie.
 
-so I keep records about my jouerney on blog
+I keep records about my jouerney on blog
 this is [my tistory blog](https://beinghonest.tistory.com/)
 
 
