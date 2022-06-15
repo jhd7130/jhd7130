@@ -1,4 +1,4 @@
-<img height=250 width=1400 align="center" src="https://velog.velcdn.com/images/yoou/post/2fcee12e-4a1a-4ee1-aed6-b0ab03e49000/Daily%20Coding.gif" />
+<img height=200 width=1400 align="center" src="https://velog.velcdn.com/images/yoou/post/2fcee12e-4a1a-4ee1-aed6-b0ab03e49000/Daily%20Coding.gif" />
 <h1 align="center">Hi 👋, I'm Hee Doo Jeong</h1>
 <h3 align="center">A passionate Backend developer from Korea</h3>
 <img align="right" alt=“Coding” width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115cef1d32692a74a361c815b7bbd7b9c8450bb6e3&rid=giphy.gif&ct=g">
@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhd7130&show_icons=true&locale=en&layout=compact" alt="jhd7130" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhd7130&show_icons=true&locale=en" alt="jhd7130" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jhd7130&show_icons=true&locale=en" alt="jhd7130" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhd7130&" alt="jhd7130" /></p>
