@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Backend developer from Korea</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhd7130&label=Profile%20views&color=0e75b6&style=flat" alt="jhd7130" /> </p>
 
+<img align="right" alt=“Coding” width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115cef1d32692a74a361c815b7bbd7b9c8450bb6e3&rid=giphy.gif&ct=g">
+
 - 🔭 I’m currently working on **getting job**
 
 - 🌱 I’m currently learning **Spring Boot, Java**
